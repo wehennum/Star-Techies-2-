@@ -48,7 +48,7 @@ When looking and picking our data, our team made sure to maintain integrity and 
 
 
 # Resources 
-(https://www.kaggle.com/datasets/prasertk/inflation-interest-and-unemployment-rate)https://www.kaggle.com/datasets/prasertk/inflation-interest-and-unemployment-rate
+https://www.kaggle.com/datasets/prasertk/inflation-interest-and-unemployment-rate)https://www.kaggle.com/datasets/prasertk/inflation-interest-and-unemployment-rate
 
 https://gist.github.com/chembott/86c39ae67be55e3d74f3536a9190eff4
 
