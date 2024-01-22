@@ -1,10 +1,10 @@
 # Star-Techies-2-
 
-# Overview- Interest, Inflation, and Unemployeement during Precidency Terms
+# Overview- Interest, Inflation, and Unemployment during Precidency Terms
 
-This Project provides the schema and ETL to create and populate for analytics purpose the Real Interest %, Inflation, and Unemployeement rates during verious terms of precidency analyzed for the United States and the United Kingdom. 
+This Project provides the schema and ETL to create and populate for analytics purpose the Real Interest %, Inflation, and Unemployment rates during various terms of precidency analyzed for the United States and the United Kingdom. 
 
-For this, we built the ETL using Python- Jupyter notebook with PostgreSQL database Tables arranged to combine and meet both datasets for Inflation, Interest, unemployeement and the presidents on term during the years. In which for analysis we can see for each courntry who was in term during the country's best and worst year of the before mentioned categories.
+For this, we built the ETL using Python- Jupyter notebook with PostgreSQL database Tables arranged to combine and meet both datasets for Inflation, Interest, unemployment and the presidents on term during the years. In which for analysis we can see for each courntry who was in term during the country's best and worst year of the before mentioned categories.
 
 # Python Scripts
 	•	Star Techies.py : Drops and creates tables.
@@ -13,11 +13,11 @@ For this, we built the ETL using Python- Jupyter notebook with PostgreSQL databa
 
 # Data Sources
 	•	British Prime Ministers since 1721 - Sheet1.csv, contains Prime Ministers background history (Year, Party, School, & Monarch)
-	•	PM_UK_df.csv, Prime ministries and terms
+	•	PM_UK_df.csv, Prime ministers and terms
 	•	Presidents.csv, contains United States presidents year duration 
 	•	Presidents_df.csv, contains United States presidents and terms
 	•	UK_data_cleaned_un_inf.csv, contains UK’s timeline of unemployment, inflation, & interest rate
-	•	US_data_cleaned_un_inf.csv, contains UK’s timeline of unemployment, inflation, & interest rate
+	•	US_data_cleaned_un_inf.csv, contains US' timeline of unemployment, inflation, & interest rate
 	•	inflation interest unemployment.csv, contains different countries’ timeline of inflation annual, consumer prices, inflation, GDP deflator, Real interest rate, deposit interest rate, lending interest rate, unemployment, total, unemployment, total labor force, adminregion, & incomeLevel
 
 
@@ -35,7 +35,7 @@ For this, we built the ETL using Python- Jupyter notebook with PostgreSQL databa
 	•	UK Data Table
    -Inflation
    -Interest %
-   -Unemployeement
+   -Unemployment
 
 
 # Execution Steps to access the data
