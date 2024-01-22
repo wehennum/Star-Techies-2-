@@ -38,7 +38,7 @@ For this, we built the ETL using Python- Jupyter notebook with PostgreSQL databa
    -Unemployeement
 
 
-#Execution Steps to access the data
+# Execution Steps to access the data
 	•	first run python Star Techies.py
 	•	then run python etl.py
 
