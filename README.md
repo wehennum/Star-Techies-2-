@@ -43,6 +43,9 @@ The database we decided to use was Structured Query Language better known as SQL
    -Unemployment
 
 
+![QuickDBD-export (2)](https://github.com/wehennum/Star-Techies-2-/assets/143963189/cdb1152c-344d-4ca0-b5da-8d291ff1b035)
+
+
 # Execution Steps to access the data
 	•	first run python Star Techies.py
 	•	then run python etl.py
