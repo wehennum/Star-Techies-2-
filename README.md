@@ -9,6 +9,9 @@ For this, we built the ETL using Python- Jupyter notebook with PostgreSQL databa
 # Python Scripts
 	•	Star Techies.py : Drops and creates tables.
 	•	Inflation_interest_unemployment_Project3.ipynb: Reads and processes files from Final PM UK.ipynb and Final Usa Presidents.ipynb and loads them into database tables.
+ 
+#Database Choice
+The database we decided to use was Structured Query Language better known as SQL. With having a large data set and to show a relationship between the data, SQL was the better choice. SQL is also a good choice to ensure compliance and data intergrity.
 
 
 # Data Sources
