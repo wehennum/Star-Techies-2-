@@ -62,7 +62,8 @@ When looking and picking our data, our team made sure to maintain integrity and 
 2. Two small data sets - William -Cleaned and condensed the data to what we wanted to present and have in our dataframe
 3. ERD - all of us came together with out cleaned data and worked as a group to discuss the best method and structure to use for our dataset
 4. Upload to PGADMIN and rerun through jupyter - William took the lead on this but we worked as a group for the majority of the upload and database task
-5. Presentation - Lisa & J$MONEY$ handled the collection of data and information to present that William and Mario gathered and they made it look presentable and professional 
+5. Presentation - Lisa & J$MONEY$ handled the collection of data and information to present that William and Mario gathered and they made it look presentable and professional
+6. ReadMe- Lisa and J $MONEY$ composed together collectively
 
 
 
