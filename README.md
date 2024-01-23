@@ -7,7 +7,7 @@ This Project provides the schema and ETL to create and populate for analytics pu
 For this, we built the ETL using Python- Jupyter notebook with PostgreSQL database Tables arranged to combine and meet both datasets for Inflation, Interest, unemployment and the presidents on term during the years. In which for analysis we can see for each courntry who was in term during the country's best and worst year of the before mentioned categories.
 
 # Python Scripts
-	•	Star Techies.py : Drops and creates tables.
+	•	PgAdmin.sql : Drops and creates tables.
 	•	Inflation_interest_unemployment_Project3.ipynb: Reads and processes files from Final PM UK.ipynb and Final Usa Presidents.ipynb and loads them into database tables.
 
 
