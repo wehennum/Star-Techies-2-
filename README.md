@@ -47,7 +47,7 @@ For this, we built the ETL using Python- Jupyter notebook with PostgreSQL databa
 When looking and picking our data, our team made sure to maintain integrity and made sure we remain compliant with all the laws and regulations for each data site.  We made sure our data resources were for public use and stayed complient with the data extraction policies. Since most of the data was extracted from Kaggle, a community platform that contains data free for public use, we obtained consent by agreeing to the site's terms and conditions. Lastly, we made sure to maintain transparency in the ETL process by documenting step by step of the process.
 
 
-Allocation of task
+#Allocation of task
 1. Large data set - Mario, Lisa, J $MONEY$ - Cleaned and condensed the data to what we wanted to present and have in our dataframe 
 2. Two small data sets - William -Cleaned and condensed the data to what we wanted to present and have in our dataframe
 3. ERD - all of us came together with out cleaned data and worked as a group to discuss the best method and structure to use for our dataset
