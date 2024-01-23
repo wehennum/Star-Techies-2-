@@ -49,8 +49,8 @@ The database we decided to use was Structured Query Language better known as SQL
 
 
 # Execution Steps to access the data
-	•	first run python Star Techies.py
-	•	then run python etl.py
+	•	first run Pg.Admin.SQL
+	•	then run python Star Techies.py
 
 
 # Ethical Considerations-
