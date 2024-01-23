@@ -36,7 +36,7 @@ The database we decided to use was Structured Query Language better known as SQL
 	•	US Data Table
    -Inflation
    -Interest %
-   -Unemployeement 
+   -Unemployment 
 	•	UK Data Table
    -Inflation
    -Interest %
